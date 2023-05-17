@@ -6,13 +6,16 @@ This repository contains the source code and documentation for the LTE Drone pro
 
 | Property       | Value           |
 |----------------|-----------------|
+| Start Date     |    2023/05/17   |
+| End Date       |    !Someday!    |
 | Version        | 1.0.0           |
 | License        | MIT             |
-| Language       | C++             |
+| Language       | C++ , JS , Java |
 | Platform       | Linux           |
 | Dependencies   | List dependencies here |
-| Maintainer     | Your Name       |
-| Email          | yourname@example.com |
+| Maintainer     | Esam Isbiga     |
+| Email          | contact@compado.me |
+
 
 
 ## Contents
