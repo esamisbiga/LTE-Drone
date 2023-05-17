@@ -2,6 +2,19 @@
 
 This repository contains the source code and documentation for the LTE Drone project. The project focuses on developing a drone system that utilizes LTE (Long-Term Evolution) technology for communication and control.
 
+## Project Properties
+
+| Property       | Value           |
+|----------------|-----------------|
+| Version        | 1.0.0           |
+| License        | MIT             |
+| Language       | C++             |
+| Platform       | Linux           |
+| Dependencies   | List dependencies here |
+| Maintainer     | Your Name       |
+| Email          | yourname@example.com |
+
+
 ## Contents
 
 - `LICENSE`: This file contains the license information for the project.
