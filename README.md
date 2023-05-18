@@ -6,9 +6,9 @@ This repository contains the source code and documentation for the LTE Drone pro
 
 | Property       | Value           |
 |----------------|-----------------|
-| Start Date     |    2023/05/17   |
-| End Date       |    !Someday!    |
-| Version        | 1.0.0           |
+| Start Date     | 2023/05/17   |
+| End Date       | !Someday!    |
+| Version        | 0.0.1a           |
 | License        | MIT             |
 | Language       | C++ , JS , Java |
 | Platform       | Linux           |
@@ -20,7 +20,7 @@ This repository contains the source code and documentation for the LTE Drone pro
 
 ## Contents
 
-- `LICENSE`: This file contains the license information for the project.
+- `src/`: This directory contains the source code for the LTE drone system.
 - `LICENSE`: This file contains the license information for the project.
 - `README.md`: This file provides an overview and instructions for using the project.
 
